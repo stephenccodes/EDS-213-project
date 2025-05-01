@@ -3,8 +3,13 @@
 <img src="https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp" width="800"/>
 
 <sub>
-Source: World Economic Forum (2025). [https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp](https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp)
+Source: World Economic Forum (2024). [https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp](https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp)
 </sub>
+
+<img src="https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp" width="800" />
+
+<p><em>Source: World Economic Forum (2024). <a href="https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp">Link</a></em></p>
+
 
 ## About
 

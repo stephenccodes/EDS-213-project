@@ -1,10 +1,10 @@
 # Examining the effect of XXX on crop yields
 
-<img src="[https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp](https://www.icid.org/images/crop_pic.jpg)" width="800"/>
+<img src="https://www.icid.org/images/crop_pic.jpg" width="800"/>
 
-https://www.icid.org/images/crop_pic.jpg
+
 <sub>
-Source: World Economic Forum (2024). [https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp](https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp)
+Source: World Economic Forum (2024). [[https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp](https://www.icid.org/images/crop_pic.jpg)
 </sub>
 
 <img src="https://assets.weforum.org/article/image/responsive_big_webp_vaD2It5Mi2mJI_M9JG_FbeY-UyPGVvv4uOUuiuYGtuE.webp" width="800" />
